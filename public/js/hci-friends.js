@@ -5,6 +5,8 @@ $(document).ready(function() {
 	initializePage();
 })
 
+$("a.#").click(friendClick);
+
 /*
  * Function that is called when the document is ready.
  */
